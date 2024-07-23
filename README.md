@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/serg6io4/serg6io4/master/plantilla_banner.png">
+<img src="https://raw.githubusercontent.com/serg6io4/serg6io4/master/presentacion.png">
 
 <h3 align="center">I am a computer engineer in search of new projects and the knowledge that comes from them. What I like the most is programming; I don't have a favorite language, I just see them as a means to accomplish a specific task. However, it's not the only thing I know how to do.</h3>
 
